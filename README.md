@@ -1,15 +1,15 @@
-Developing Data Products - MyShinyApp_BMI
+Developing Data Products
 ===========================================
 
-Developing Data Products by Coursera
+Developing Data Products Course by Coursera
 
-First, to answer the first question of coursera project, you can see the server.R and ui.R file on this github repo.
+To answer the first question of the Coursera project assignment, you can see the server.R and ui.R file on this github repo.
 
-And there are two methods of running and viewing the application:
+There are two methods of running and viewing the application (MyShinyApp_BMI):
 
-- 1. Download the ui.R and server.R file in your R working directory and run the list code:
-library(shiny);runApp()
+1. Download the ui.R and server.R file in your R working directory and run the following commands:
+      library(shiny);runApp()
 
-- 2. Or visit the following link on Shinyapps.io -> https://sfrechette.shinyapps.io/myShinyApp_BMI/
+2. Or visit the following link on Shinyapps.io -> https://sfrechette.shinyapps.io/myShinyApp_BMI/
 
-Second, to answer the second question of coursera project assignment, you can open my slidify link as follow:
+To answer the second question of Coursera project assignment, you can open my slidify link as follow:
