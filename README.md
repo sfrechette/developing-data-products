@@ -13,3 +13,5 @@ There are two methods of running and viewing the application (MyShinyApp_BMI):
 2. Or visit the following link on Shinyapps.io -> https://sfrechette.shinyapps.io/myShinyApp_BMI/
 
 To answer the second question of Coursera project assignment, you can open my slidify link as follow:
+
+https://rpubs.com/stephanef/myShinyApp_BMI
